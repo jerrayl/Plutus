@@ -1,0 +1,3 @@
+rootProject.name = 'Plutus'
+
+include ':app', ':watch'
